@@ -1,2 +1,2 @@
 # whatsapp-clone
-This a flutter project, a whatsapp clone.
+This is a flutter project, a whatsapp clone.
